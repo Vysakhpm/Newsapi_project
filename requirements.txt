@@ -1,0 +1,15 @@
+psycopg2
+sqlalchemy
+psycopg2-binary
+python-dotenv
+textblob
+requests
+pandas
+db
+datetime
+boto3
+newsapi
+streamlit
+numpy
+kafka-python
+matplotlib
