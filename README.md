@@ -19,8 +19,9 @@ In this project
 
 
 * Analyzed  news aritcle are pushed to a rds postgres AWS instance along with timestamp.
-(https://github.com/user-attachments/assets/e3de3ce1-7b9d-4373-a9fd-a7085b82c635)
-  
+
+  ![DATABASE](https://github.com/user-attachments/assets/e8479131-832c-4043-8b5e-3e358542b110)
+
 * Now a Dashboard is created using Streamlit to visualize the sentiment of the news in local system which is then converted to a docker image and pushed to ECR Registry in AWS.
   
 ![pg4admin_newstable](https://github.com/user-attachments/assets/7ad5b409-b403-4740-b114-2ba27700cde9)
